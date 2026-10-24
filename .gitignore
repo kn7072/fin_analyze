@@ -1,0 +1,5 @@
+/.project
+**/tags
+**/*.out
+**/.obsidian
+**/.venv
